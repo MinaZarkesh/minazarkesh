@@ -27,6 +27,12 @@ I've been learning to code for almost 1 year, after switching careers. I started
 * 💼  I'm open for a new Job
 * 🤝  I'm open to collaborating on new and interesting projects
 
+### Projects
+
+simple-crm - simple-crm.mina-zarkesh.de
+Join - join.mina-zarkesh.de/html/
+Sharkie - sharkie.mina-zarkesh.de
+
 ### Skills
 
 <p align="left">
